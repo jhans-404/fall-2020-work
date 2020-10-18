@@ -1,1 +1,3 @@
-# fall2020template
+# Last Name: 
+# First Name: 
+# GitHub Username:
